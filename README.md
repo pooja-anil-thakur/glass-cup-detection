@@ -54,7 +54,7 @@ Follow these steps to set up the environment and install the necessary dependenc
     pip install roboflow
     ```
 
-## Running the Glass-Cup Detection Model
+## Running the glass-cup detection Model
 
 1. Set up the dataset environment variable:
     ```python
