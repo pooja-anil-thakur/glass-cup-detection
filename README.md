@@ -1,4 +1,4 @@
-# Yolo-V5-glass-cup-detection
+# YoloV5 Glass Cups Detection
 
 ## Aim and Objectives
 
