@@ -1,16 +1,14 @@
-## Yolo-V5-glass-cup-detection
-
-
+# Yolo-V5-glass-cup-detection
 
 ## Aim and Objectives
 
-##Aim
+## Aim
 
  Aim of this project is to develop a robust and efficient object detection model capable of accurately identifying and classifying glasses and cups in various environments using the YOLOv5 architecture.
 
-##Objectives:
+## Objectives:
 
-##
+
 •	Collect and preprocess a diverse dataset of images containing glasses and cups.
 •	Implement the YOLOv5 object detection model for the task.
 •	Train the model using the collected dataset.
